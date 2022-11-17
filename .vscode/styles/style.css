@@ -14,11 +14,16 @@ body{
 }
 
 .logo{
+    height: 50px;
+    width: 50px;
+    background: url(../images/memegato.png);
+    background-size: cover;
+    margin-top: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 .app-image{
